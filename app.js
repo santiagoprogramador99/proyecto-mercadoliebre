@@ -5,7 +5,7 @@ const path = require("path");
 
 app.use(express.static("public"))
 
-app.listen(process.env.PORT || 3000, () => console.log("servidor funcionando en el puerto 3000"))
+app.listen(process.env.PORT || 3030, () => console.log("servidor funcionando"))
 
 
 app.get("/", (req, resp)=>{
