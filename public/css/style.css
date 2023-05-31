@@ -30,3 +30,11 @@ header .buscador .lupa i {
     border: 1px solid black;
     color:#666;
     }
+header  div.burger-menu i{
+    color: #fff;
+background-color: #1259c3;
+
+}
+header  div.burger-menu{
+    text-align: center;
+}
