@@ -33,8 +33,41 @@ header .buscador .lupa i {
 header  div.burger-menu i{
     color: #fff;
 background-color: #1259c3;
+font-size: 20px;
+padding: 10px;
+margin: 10px 0px 20px 0px;
+ border-radius: 5px;
 
 }
 header  div.burger-menu{
     text-align: center;
+}
+main{
+    text-align: center;
+    width: 90vw;
+}
+header{
+    width: 100vw;
+}
+.banner-img{
+    width: 100vw;
+}
+.main-section-article{
+    margin-bottom: 10px;
+
+}
+.info-article{ border-top: solid 1px #ebebeb;
+    padding: 15px;
+}
+main section article div div i{
+    width: 40px;
+    height: 40px;
+    border:solid 1px #39b54a;
+    border-radius: 100%;
+    color:#39b54a;
+    padding-top: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size:16px;
+
 }
